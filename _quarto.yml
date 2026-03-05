@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "GIS Resources"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: bathymetry.qmd
+        text: Bathymetry
+      - href: ocean.qmd
+        text: Ocean Data
+      - href: tools.qmd
+        text: Tools
+    right:
+      - icon: github
+        href: https://github.com/E-Honan/GIS-Resources
+
+format:
+  html:
+    theme: cosmo
+    toc: true
