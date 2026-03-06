@@ -4,6 +4,7 @@ project:
 
 website:
   title: "GIS Resources for Animal Movement Studies"
+  search: TRUE
   navbar:
     left:
       - href: index.qmd
@@ -21,7 +22,9 @@ website:
       - href: Polar_Regions.html
         text: Polar Regions 
       - href: Tutorials.html
-        text: Tutorials   
+        text: Tutorials 
+    #  - test.qmd
+      
 
     right:
       - icon: github
@@ -30,6 +33,7 @@ website:
 format:
   html:
     theme: sketchy
+    linkcolor: "#471C5E"
     toc: true
     
   
