@@ -5,6 +5,7 @@ project:
 website:
   title: "GIS Resources for Animal Movement Studies"
   search: TRUE
+  page-footer: "Eleanor Maedhbh Honan 2026" 
   navbar:
     left:
       - href: index.qmd
@@ -36,8 +37,7 @@ format:
     linkcolor: "#471C5E"
     toc: true
     
-  
-    
+
     
     
   
