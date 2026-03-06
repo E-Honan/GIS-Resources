@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "GIS Resources",
+    "title": "Hello!",
     "section": "",
     "text": "This webpage was put together for students of ENVS255 to act as a resource for their indiviudal projects, but will hopefully be useful for anyone starting to work with QGIS and R."
   },
   {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "GIS Resources",
+    "objectID": "index.html#what-this-webpage-is",
+    "href": "index.html#what-this-webpage-is",
+    "title": "Hello!",
     "section": "",
     "text": "This webpage was put together for students of ENVS255 to act as a resource for their indiviudal projects, but will hopefully be useful for anyone starting to work with QGIS and R."
   },
   {
     "objectID": "index.html#running-code",
     "href": "index.html#running-code",
-    "title": "GIS Resources",
+    "title": "Hello!",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }

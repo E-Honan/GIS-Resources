@@ -1,11 +1,11 @@
 ---
-title: "GIS Resources"
+title: "Hello!"
 author: "Ellie Honan"
 format: html
 editor: visual
 ---
 
-## Hello!
+## What this webpage is:
 
 This webpage was put together for students of ENVS255 to act as a resource for their indiviudal projects, but will hopefully be useful for anyone starting to work with QGIS and R.
 
