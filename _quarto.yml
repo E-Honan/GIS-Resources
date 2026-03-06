@@ -12,7 +12,7 @@ website:
         text: Software
       - href: Basemaps.html
         text: Basemaps
-      - href: Projections.hml
+      - href: Projections.html
         text: Projections
       - href: Tracking_Data.html
         text: Tracking Data
@@ -22,7 +22,7 @@ website:
         text: Dynamic Data
       - href: Polar_Regions.html
         text: Polar regions 
-      - href: Tutorials.qmd
+      - href: Tutorials.html
         text: Tutorials   
 
     right:
