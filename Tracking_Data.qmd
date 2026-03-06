@@ -6,7 +6,11 @@ editor: visual
 
 ## Where to access tracking data 
 
-after move Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Importance of sharing data
+
+Different types of devices
+
+Think about your question when choosing device type
 
 [MOVEBANK](https://www.movebank.org/cms/movebank-main) is a large repository of animal tracking data
 
