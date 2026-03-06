@@ -1,4 +1,24 @@
 ---
-title: "Polar Regions"
+title: "Mapping the Poles"
 editor: visual
 ---
+
+# Polar region-specific data repositories
+
+## Antarctica:
+
+[Quantarctica](https://npolar.no/quantarctica/), managed by the Norsk Polar Institut, is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica. It integrates with QGIS, but the data in the package can also be used in other software.
+
+The [SCAR Antarctic Digital Database](https://scar.org/library-data/maps/add-digital-database) hosts extensive topographic (coastlines, rock outcrop, contours, etc) data sets on Antarctica.
+
+The [Australian Antarctic Data Centre](https://data.aad.gov.au/about) hosts Australia's Antarctic Data.
+
+## Greenland:
+
+[QGreenland](https://www.qgreenland.org/) is similar to Quantarctica but for Greenland.
+
+## The Arctic:
+
+# General polar data: 
+
+The [US National Snow and Ice Data Center](https://nsidc.org/home) is an excellent resource for all things icey.

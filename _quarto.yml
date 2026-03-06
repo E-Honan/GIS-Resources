@@ -16,12 +16,10 @@ website:
         text: Projections
       - href: Tracking_Data.html
         text: Tracking Data
-      - href: Static_Data.qmd
-        text: Static Data
-      - href: Dynamic_Data.qmd
-        text: Dynamic Data
+      - href: Environmental_Data.qmd
+        text: Environmental Data
       - href: Polar_Regions.html
-        text: Polar regions 
+        text: Polar Regions 
       - href: Tutorials.html
         text: Tutorials   
 
@@ -34,6 +32,17 @@ format:
     theme: sketchy
     toc: true
     
+  
+    
+    
+    
+    
+    
+    
+    
+
+
+
     
     
     

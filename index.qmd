@@ -1,27 +1,12 @@
 ---
 title: "Hello!"
-author: "Ellie Honan"
+author: "I'm Ellie Honan, a university teacher in ecology and marine biology at the University of Liverpool and a PhD researcher in seabird movement ecology and diet with Durham University and the British Antarctic Survey."
 format: html
 editor: visual
 ---
 
-## What this webpage is:
+## What this webpage is for:
 
-This webpage was put together for students of ENVS255 to act as a resource for their indiviudal projects, but will hopefully be useful for anyone starting to work with QGIS and R.
+This webpage was put together for students of ENVS255 to act as a resource for their individual projects, but will hopefully be useful for anyone starting to work with animal movement data in QGIS and R. The purpose of this platform isn't to provide instruction on how to use the datasets listed here, but instead to make you aware of what kinds of data is available. The lists are non-exhaustive!
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+## 

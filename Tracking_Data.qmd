@@ -18,18 +18,20 @@ If you have not decided on a specific study, you can look for available data on 
 
 The website [wildlife data.org](https://wildlifedata.org/) has a good, but not exhaustive list of repositories that include tracking data.
 
-![](movebank_logo.png){fig-align="right"}
+![MOVEBANK is an excellent resource and good platform for exploring tracking data.](movebank_logo.png){fig-align="right" width="900"}
 
 ### List of repositories
 
 -   [MOVEBANK](https://www.movebank.org/cms/movebank-main) is a large repository of animal tracking data, and many of these are downloadable from point of access.
 
--   The [Seabird Tracking Database](https://www.seabirdtracking.org/) hosts tracking data on, you guessed it, seabirds!
+-   [Systema Naturae](https://systemanaturae.org/about/) is another large repository - I've found that searching by tag type (e.g. "GPS" in the datasets search bar lends best results).
 
 -   The [MOTUS](https://motus.org/dashboard/#f=%7B%7D) database, provided by [Birds Canada](https://www.birdscanada.org/), hosts data collected by the Motus Wildlife Tracking System, which we discussed in the earlier practicals.
 
-Importance of sharing data
+-   [Zoatrack](https://web.archive.org/web/20230806213233/https://zoatrack.org/home) is primarly focused on Australia, but is an excellent resource *(this is a cached version on the Internet Archive's Wayback Machine as Zoatrack went offline in 2024).*
 
-Different types of devices
+#### Species specific repositories: 
 
-Think about your question when choosing device type
+**Turtles:** [seaturtle.org](http://www.seaturtle.org/)
+
+**Seabirds:** The [Seabird Tracking Database](https://www.seabirdtracking.org/) hosts tracking data on, you guessed it, seabirds!
