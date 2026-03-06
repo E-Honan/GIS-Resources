@@ -12,7 +12,7 @@ website:
         text: Basemaps
       - href: Projections.qmd
         text: Projections
-      - href: Tracking_Data.qmd
+      - href: Tracking_Data.html
         text: Tracking Data
       - href: Static_Data.qmd
         text: Static Data
