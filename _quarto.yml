@@ -8,12 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: bathymetry.qmd
-        text: Bathymetry
-      - href: ocean.qmd
-        text: Ocean Data
-      - href: tools.qmd
-        text: Tools
+      - href: Basemaps.qmd
+        text: Basemaps
+      - href: Projections.qmd
+        text: Projections
+      - href: Tracking_Data.qmd
+        text: Tracking Data
+      - href: Static_Data.qmd
+        text: Static Data
+      - href: Tutorials.qmd
+        text: Tutorials   
+
     right:
       - icon: github
         href: https://github.com/E-Honan/GIS-Resources
