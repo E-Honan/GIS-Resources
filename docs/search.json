@@ -46,14 +46,14 @@
     "href": "Tracking_Data.html",
     "title": "Tracking Data",
     "section": "",
-    "text": "Importance of sharing data\nDifferent types of devices\nThink about your question when choosing device type\nMOVEBANK is a large repository of animal tracking data"
+    "text": "For the purpose of your assignment, you will be using tracking data collected and processed by other scientists. If you wanted to publish any work using this data, you would first have to seek permission from those who own the original data. In the assignment, please only use data that is free to download in the first place."
   },
   {
     "objectID": "Tracking_Data.html#where-to-access-tracking-data",
     "href": "Tracking_Data.html#where-to-access-tracking-data",
     "title": "Tracking Data",
-    "section": "",
-    "text": "Importance of sharing data\nDifferent types of devices\nThink about your question when choosing device type\nMOVEBANK is a large repository of animal tracking data"
+    "section": "Where to access tracking data",
+    "text": "Where to access tracking data\nYou may already have come across a study that interests you and are interested in using the same data as in the paper. In this case, most recent peer-reviewed publications will have a section (scroll down to before the references) noting where the data for the paper is stored, and whether it is open access. Some common repositories you may see referenced are Zenodo, Dryad and figshare. Sometimes the original data can be found in the paper’s supplementary information, but not always.\nIf you have not decided on a specific study, you can look for available data on specific animal tracking repositories.\nThe website wildlife data.org has a good, but not exhaustive list of repositories that include tracking data.\n\nList of repositories\nMOVEBANK is a large repository of animal tracking data, and many of these are downloadable from point of access.\nThe Seabird Tracking Database hosts tracking data on, you guessed it, seabirds!\nThe MOTUS database, provided by Birds Canada, hosts data collected by the Motus Wildlife Tracking System, which we discussed in the earlier practicals.\nImportance of sharing data\nDifferent types of devices\nThink about your question when choosing device type"
   },
   {
     "objectID": "Tracking_Data.html#running-code",

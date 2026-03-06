@@ -4,29 +4,30 @@ format: html
 editor: visual
 ---
 
+> ## Using other people's data
+>
+> For the purpose of your assignment, you will be using tracking data collected and processed by other scientists. If you wanted to publish any work using this data, you would first **have to seek permission from those who own the original data.** In the assignment, please only use data that is free to download in the first place.
+
 ## Where to access tracking data 
+
+You may already have come across a study that interests you and are interested in using the same data as in the paper. In this case, most recent peer-reviewed publications will have a section (scroll down to before the references) noting where the data for the paper is stored, and whether it is open access.
+
+Some common repositories you may see referenced are [Zenodo](https://zenodo.org/), [Dryad](https://datadryad.org/) and [figshare.](https://figshare.com/) Sometimes the original data can be found in the paper's supplementary information, but not always.
+
+If you have not decided on a specific study, you can look for available data on specific animal tracking repositories.
+
+The website [wildlife data.org](https://wildlifedata.org/) has a good, but not exhaustive list of repositories that include tracking data.
+
+### List of repositories
+
+-   [MOVEBANK](https://www.movebank.org/cms/movebank-main) is a large repository of animal tracking data, and many of these are downloadable from point of access.
+
+-   The [Seabird Tracking Database](https://www.seabirdtracking.org/) hosts tracking data on, you guessed it, seabirds!
+
+-   The [MOTUS](https://motus.org/dashboard/#f=%7B%7D) database, provided by [Birds Canada](https://www.birdscanada.org/), hosts data collected by the Motus Wildlife Tracking System, which we discussed in the earlier practicals.
 
 Importance of sharing data
 
 Different types of devices
 
 Think about your question when choosing device type
-
-[MOVEBANK](https://www.movebank.org/cms/movebank-main) is a large repository of animal tracking data
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
