@@ -18,6 +18,8 @@ If you have not decided on a specific study, you can look for available data on 
 
 The website [wildlife data.org](https://wildlifedata.org/) has a good, but not exhaustive list of repositories that include tracking data.
 
+![](movebank_logo.png){fig-align="right"}
+
 ### List of repositories
 
 -   [MOVEBANK](https://www.movebank.org/cms/movebank-main) is a large repository of animal tracking data, and many of these are downloadable from point of access.
