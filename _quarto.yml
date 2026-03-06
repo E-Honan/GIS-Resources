@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "GIS Resources"
+  title: "GIS Resources for Animal Movement"
   navbar:
     left:
       - href: index.qmd
