@@ -1,9 +1,11 @@
 ---
 title: "Hello!"
-author: "I'm Ellie Honan, a university teacher in ecology and marine biology at the University of Liverpool and a PhD researcher in seabird movement ecology and diet with Durham University and the British Antarctic Survey."
+#author: "I'm Ellie Honan, a university teacher in ecology and marine biology at the University of Liverpool and a PhD researcher in seabird movement ecology and diet with Durham University and the British Antarctic Survey."
 format: html
 editor: visual
 ---
+
+I'm Ellie Honan, a university teacher in ecology and marine biology at the University of Liverpool and a PhD researcher in seabird movement ecology and diet with Durham University and the British Antarctic Survey.
 
 ## What this webpage is for:
 
