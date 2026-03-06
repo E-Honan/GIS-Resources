@@ -19,7 +19,7 @@ website:
       - href: Dynamic_Data.qmd
         text: Dynamic Data
       - href: Polar-focused.qmd
-        text: Polar focused   
+        text: Maps of the Poles   
       - href: Tutorials.qmd
         text: Tutorials   
 
