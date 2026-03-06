@@ -24,7 +24,7 @@ The website [wildlife data.org](https://wildlifedata.org/) has a good, but not e
 
 -   [MOVEBANK](https://www.movebank.org/cms/movebank-main) is a large repository of animal tracking data, and many of these are downloadable from point of access.
 
--   [Systema Naturae](https://systemanaturae.org/about/) is another large repository - I've found that searching by tag type (e.g. "GPS" in the datasets search bar lends best results).
+-   [Systema Naturae](https://systemanaturae.org/about/) is another large repository - I've found that searching by tag type (e.g. "GPS") in the datasets search bar lends best results.
 
 -   The [MOTUS](https://motus.org/dashboard/#f=%7B%7D) database, provided by [Birds Canada](https://www.birdscanada.org/), hosts data collected by the Motus Wildlife Tracking System, which we discussed in the earlier practicals.
 
