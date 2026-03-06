@@ -8,7 +8,7 @@ editor: visual
 >
 > For the purpose of your assignment, you will be using tracking data collected and processed by other scientists. If you wanted to publish any work using this data, you would first **have to seek permission from those who own the original data.** In the assignment, please only use data that is free to download in the first place.
 
-## Where to access tracking data 
+## Where to access tracking data
 
 You may already have come across a study that interests you and are interested in using the same data as in the paper. In this case, most recent peer-reviewed publications will have a section (scroll down to before the references) noting where the data for the paper is stored, and whether it is open access.
 
@@ -30,7 +30,7 @@ The website [wildlife data.org](https://wildlifedata.org/) has a good, but not e
 
 -   [Zoatrack](https://web.archive.org/web/20230806213233/https://zoatrack.org/home) is primarly focused on Australia, but is an excellent resource *(this is a cached version on the Internet Archive's Wayback Machine as Zoatrack went offline in 2024).*
 
-#### Species specific repositories: 
+#### Species specific repositories:
 
 **Turtles:** [seaturtle.org](http://www.seaturtle.org/)
 

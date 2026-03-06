@@ -1,4 +1,11 @@
 ---
-title: "Tutorials"
+title: "Tutorials & Design"
 editor: visual
 ---
+
+## Visuals
+
+### Accessibility 
+
+For choosing colours, [this website](https://htmlcolorcodes.com/) lets you copy the Hex code of a chosen colour.
+

@@ -10,12 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Projections.html
+        text: Projections
       - href: Software.html
         text: Software
       - href: Basemaps.html
         text: Basemaps
-      - href: Projections.html
-        text: Projections
       - href: Tracking_Data.html
         text: Tracking Data
       - href: Environmental_Data.qmd
@@ -23,7 +23,7 @@ website:
       - href: Polar_Regions.html
         text: Polar Regions 
       - href: Tutorials.html
-        text: Tutorials 
+        text: Tutorials & Design
     #  - test.qmd
       
 
@@ -31,6 +31,7 @@ website:
       - icon: github
         href: https://github.com/E-Honan/GIS-Resources
 
+ 
 format:
   html:
     theme: sketchy
