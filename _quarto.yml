@@ -16,6 +16,10 @@ website:
         text: Tracking Data
       - href: Static_Data.qmd
         text: Static Data
+      - href: Dynamic_Data.qmd
+        text: Dynamic Data
+      - href: Polar-focused.qmd
+        text: Polar focused   
       - href: Tutorials.qmd
         text: Tutorials   
 
