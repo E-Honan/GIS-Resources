@@ -10,9 +10,9 @@ website:
         text: Home
       - href: Software.html
         text: Software
-      - href: Basemaps.qmd
+      - href: Basemaps.html
         text: Basemaps
-      - href: Projections.qmd
+      - href: Projections.hml
         text: Projections
       - href: Tracking_Data.html
         text: Tracking Data
@@ -20,8 +20,8 @@ website:
         text: Static Data
       - href: Dynamic_Data.qmd
         text: Dynamic Data
-      - href: Polar-focused.qmd
-        text: Maps of the Poles   
+      - href: Polar_Regions.html
+        text: Polar regions 
       - href: Tutorials.qmd
         text: Tutorials   
 
