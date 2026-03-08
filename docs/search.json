@@ -67,14 +67,14 @@
     "href": "Polar_Regions.html",
     "title": "Mapping the Poles",
     "section": "",
-    "text": "Quantarctica, managed by the Norsk Polar Institut, is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica. It integrates with QGIS, but the data in the package can also be used in other software.\nThe SCAR Antarctic Digital Database hosts extensive topographic (coastlines, rock outcrop, contours, etc) data sets on Antarctica.\nThe Australian Antarctic Data Centre hosts Australia’s Antarctic Data.\n\n\n\nQGreenland is similar to Quantarctica but for Greenland."
+    "text": "Quantarctica, managed by the Norsk Polar Institut, is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica. It integrates with QGIS, but the data in the package can also be used in other software.\nThe SCAR Antarctic Digital Database hosts extensive topographic (coastlines, rock outcrop, contours, etc) data sets on Antarctica.\nThe Australian Antarctic Data Centre hosts Australia’s Antarctic Data.\nFor bathymetric (depth) data in Antarctica, IBSCO, the International Bathymetric Chart of the Southern Ocean is the authoritative map.\n\n\n\nQGreenland is similar to Quantarctica but for Greenland."
   },
   {
     "objectID": "Polar_Regions.html#antarctica",
     "href": "Polar_Regions.html#antarctica",
     "title": "Mapping the Poles",
     "section": "",
-    "text": "Quantarctica, managed by the Norsk Polar Institut, is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica. It integrates with QGIS, but the data in the package can also be used in other software.\nThe SCAR Antarctic Digital Database hosts extensive topographic (coastlines, rock outcrop, contours, etc) data sets on Antarctica.\nThe Australian Antarctic Data Centre hosts Australia’s Antarctic Data."
+    "text": "Quantarctica, managed by the Norsk Polar Institut, is a collection of Antarctic geographical datasets for research, education, operations, and management in Antarctica. It integrates with QGIS, but the data in the package can also be used in other software.\nThe SCAR Antarctic Digital Database hosts extensive topographic (coastlines, rock outcrop, contours, etc) data sets on Antarctica.\nThe Australian Antarctic Data Centre hosts Australia’s Antarctic Data.\nFor bathymetric (depth) data in Antarctica, IBSCO, the International Bathymetric Chart of the Southern Ocean is the authoritative map."
   },
   {
     "objectID": "index.html#what-this-webpage-is-for",

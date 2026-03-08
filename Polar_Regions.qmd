@@ -13,12 +13,14 @@ The [SCAR Antarctic Digital Database](https://scar.org/library-data/maps/add-dig
 
 The [Australian Antarctic Data Centre](https://data.aad.gov.au/about) hosts Australia's Antarctic Data.
 
+For bathymetric (depth) data in Antarctica, [IBSCO](https://ibcso.org/), the International Bathymetric Chart of the Southern Ocean is the authoritative map.
+
 ## Greenland:
 
 [QGreenland](https://www.qgreenland.org/) is similar to Quantarctica but for Greenland.
 
 ## The Arctic:
 
-# General polar data: 
+# General polar data:
 
 The [US National Snow and Ice Data Center](https://nsidc.org/home) is an excellent resource for all things icey.
