@@ -103,5 +103,19 @@
     "title": "Tutorials & Design",
     "section": "",
     "text": "For choosing colours, this website lets you copy the Hex code of a chosen colour."
+  },
+  {
+    "objectID": "Basemaps.html",
+    "href": "Basemaps.html",
+    "title": "Basemaps",
+    "section": "",
+    "text": "Here you’ll find links to landmass outlines of varying degrees of specificity. These are usually supplied as shapefiles. When you’re choosing your basemap, think about what resolution you require, and how this balances with processing time. For example, a global map of humpack whale migration will not require every inch of the coastline to be fully rendered, but if you were looking at say penguin movements in a small bay in New Zealand, you would want a higher accuracy basemap.\nGlobal:\nUK:\nAntarctica: The SCAR Antarctic Digital Database keeps a frequently updates high resolution shapefile of the Antarctic coastline."
+  },
+  {
+    "objectID": "Projections.html",
+    "href": "Projections.html",
+    "title": "Projections",
+    "section": "",
+    "text": "mapscaping.com"
   }
 ]
