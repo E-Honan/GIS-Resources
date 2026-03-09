@@ -5,10 +5,22 @@ editor: visual
 
 Here you'll find links to landmass outlines of varying degrees of specificity. These are usually supplied as shapefiles. When you're choosing your basemap, think about what resolution you require, and how this balances with processing time. For example, a global map of humpack whale migration will not require every inch of the coastline to be fully rendered, but if you were looking at say penguin movements in a small bay in New Zealand, you would want a higher accuracy basemap.
 
+**General:**
+
 If you're using QGIS, one of the easiest ways to add a simple basemap is to use the [XYZ Tiles](https://mapscaping.com/adding-basemaps-in-qgis/) option within the software itself - with this you can add Open Street Maps and Google Satellite Maps.
 
 **Global:**
 
-**UK:** [Digimap](https://digimap.edina.ac.uk/)
+-   [Natural Earth Data](https://www.naturalearthdata.com/) - this is a great resource, and has a [R package.](https://docs.ropensci.org/rnaturalearth/articles/rnaturalearth.html)
 
-**Antarctica:** The [SCAR Antarctic Digital Database](https://scar.org/library-data/maps/add-digital-database) keeps a frequently updates high resolution shapefile of the Antarctic coastline.
+-   Frequently updated [Geopolitical boundaries](https://www.geoboundaries.org/)
+
+-   [Shapefiles for individual countries](https://mapscaping.com/download-shapefiles-for-any-country/)
+
+**UK:**
+
+-   [Digimap](https://digimap.edina.ac.uk/)
+
+**Antarctica:**
+
+-   The [SCAR Antarctic Digital Database](https://scar.org/library-data/maps/add-digital-database) keeps a frequently updates high resolution shapefile of the Antarctic coastline.
