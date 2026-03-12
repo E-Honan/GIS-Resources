@@ -3,7 +3,14 @@ title: "Tutorials & Design"
 editor: visual
 ---
 
+## What makes a good map? 
+
+## Adding basemaps using plugins 
+
+https://www.youtube.com/watch?v=thTQMkRp3mI
+
 ## Visuals
+
 
 ### Accessibility 
 

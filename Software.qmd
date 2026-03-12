@@ -13,8 +13,8 @@ Alongside what we worked on in the taught practicals, there is a plethora of exc
 
 ![](qgis_logo.png)
 
-## R and RStudio 
+## R and RStudio
 
-One of the most frequently used softwares for animal movement studies is R and RStudio.
+One of the most frequently used softwares for animal movement studies is R and RStudio. Available to download from:
 
 ![](R-and-Rstudio.png)
