@@ -14,7 +14,7 @@ website:
         text: Projections
       - href: Software.html
         text: Software
-      - href: Basemaps.html
+      - href: Basemaps.qmd
         text: Basemaps
       - href: Tracking_Data.html
         text: Tracking Data
@@ -22,7 +22,7 @@ website:
         text: Environmental Data
       - href: Polar_Regions.html
         text: Polar Regions 
-      - href: Tutorials.html
+      - href: Tutorials.qmd
         text: Tutorials & Design
     #  - test.qmd
       
@@ -52,6 +52,8 @@ format:
 
 
 
+    
+    
     
     
     

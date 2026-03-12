@@ -17,6 +17,16 @@ In practice, this means that if you wanted to see if animals used different wate
 
 What data product you use will vary based on the resolution of data required to answer your question. If you're curious of how close to the sea-ice edge Emperor penguins forage in Antarctica, you might use a relatively course sea-ice edge product - one of the most frequently used is at a scale of 25km^2,^ as the penguins' foraging trips can span 100s of kilometers. You would also want a product with a near-daily resolution. However, if you wanted to see how a mangrove boundary changed over the course of a year in a small inlet in Indonesia, you would want a much higher resolution image, potentially sub-meter in scale, and monthly imagery would suffice.
 
+## Where to find environmental data:
+
 Here, I've listed some portals for where you can access environmental data. They are all free to access, but most will require you to make an account. I haven't separated them out by the type of data, as many of the portals host multiple types of environmental data, encompassing both oceans and land.
 
-## Where to find environmental data:
+[Explore data \| Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/explore-data)
+
+[Earthdata Search - Earthdata Search](https://search.earthdata.nasa.gov/)
+
+[EarthExplorer](https://earthexplorer.usgs.gov/)
+
+[ArcGIS Hub](https://hub.arcgis.com/search)
+
+[NASA Earth Observations (NEO)](https://neo.gsfc.nasa.gov/)
