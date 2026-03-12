@@ -20,7 +20,7 @@ website:
         text: Tracking Data
       - href: Environmental_Data.html
         text: Environmental Data
-      - href: Polar_Regions.html
+      - href: Polar_Regions.qmd
         text: Polar Regions 
       - href: Tutorials.qmd
         text: Tutorials & Design

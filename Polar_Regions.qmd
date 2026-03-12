@@ -21,6 +21,8 @@ For bathymetric (depth) data in Antarctica, [IBSCO](https://ibcso.org/), the Int
 
 ## The Arctic:
 
+[NSF Arctic Data Center The primary data and software repository for NSF Arctic research](https://arcticdata.io/)
+
 # General polar data:
 
 The [US National Snow and Ice Data Center](https://nsidc.org/home) is an excellent resource for all things icey.
