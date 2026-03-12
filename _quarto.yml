@@ -12,7 +12,7 @@ website:
         text: Home
       - href: Projections.html
         text: Projections
-      - href: Software.html
+      - href: Software.qmd
         text: Software
       - href: Basemaps.qmd
         text: Basemaps
@@ -39,6 +39,8 @@ format:
     toc: true
     
 
+    
+    
     
     
     

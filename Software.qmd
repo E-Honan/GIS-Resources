@@ -15,6 +15,6 @@ Alongside what we worked on in the taught practicals, there is a plethora of exc
 
 ## R and RStudio
 
-One of the most frequently used softwares for animal movement studies is R and RStudio. Available to download from:
+One of the most frequently used softwares for animal movement studies is R and RStudio. R and RStudio are free, open-source tools widely used for data analysis, statistics, and geospatial work. To get started, first download **R** from the [[**Comprehensive R Archive Network**]{.underline} **(CRAN)**,](https://cran.r-project.org/bin/windows/base/) which provides the core programming language and statistical environment. After installing R, [download **RStudio** from **Posit**.](https://posit.co/downloads/) RStudio is an integrated development environment (IDE) that makes it easier to write code, manage projects, visualize data, and install packages. Together, R and RStudio provide a powerful platform for analysing environmental and spatial datasets used in GIS and environmental science.
 
 ![](R-and-Rstudio.png)
