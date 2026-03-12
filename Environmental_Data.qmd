@@ -21,6 +21,8 @@ What data product you use will vary based on the resolution of data required to 
 
 Here, I've listed some portals for where you can access environmental data. They are all free to access, but most will require you to make an account. I haven't separated them out by the type of data, as many of the portals host multiple types of environmental data, encompassing both oceans and land.
 
+### Global GIS Data Portals
+
 [Explore data \| Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/explore-data)
 
 [Earthdata Search - Earthdata Search](https://search.earthdata.nasa.gov/)
@@ -30,3 +32,5 @@ Here, I've listed some portals for where you can access environmental data. They
 [ArcGIS Hub](https://hub.arcgis.com/search)
 
 [NASA Earth Observations (NEO)](https://neo.gsfc.nasa.gov/)
+
+[World Ocean Atlas \| National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/products/world-ocean-atlas)

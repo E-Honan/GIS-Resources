@@ -18,7 +18,7 @@ website:
         text: Basemaps
       - href: Tracking_Data.html
         text: Tracking Data
-      - href: Environmental_Data.qmd
+      - href: Environmental_Data.html
         text: Environmental Data
       - href: Polar_Regions.html
         text: Polar Regions 

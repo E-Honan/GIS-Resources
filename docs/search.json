@@ -130,7 +130,7 @@
     "href": "Environmental_Data.html#where-to-find-environmental-data",
     "title": "Environmental Data",
     "section": "Where to find environmental data:",
-    "text": "Where to find environmental data:\nHere, I’ve listed some portals for where you can access environmental data. They are all free to access, but most will require you to make an account. I haven’t separated them out by the type of data, as many of the portals host multiple types of environmental data, encompassing both oceans and land.\nExplore data | Copernicus Data Space Ecosystem\nEarthdata Search - Earthdata Search\nEarthExplorer\nArcGIS Hub\nNASA Earth Observations (NEO)"
+    "text": "Where to find environmental data:\nHere, I’ve listed some portals for where you can access environmental data. They are all free to access, but most will require you to make an account. I haven’t separated them out by the type of data, as many of the portals host multiple types of environmental data, encompassing both oceans and land.\n\nGlobal GIS Data Portals\nExplore data | Copernicus Data Space Ecosystem\nEarthdata Search - Earthdata Search\nEarthExplorer\nArcGIS Hub\nNASA Earth Observations (NEO)\nWorld Ocean Atlas | National Centers for Environmental Information (NCEI)"
   },
   {
     "objectID": "Environmental_Data.html#static-vs-dynamic-data-layers",
