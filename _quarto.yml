@@ -22,6 +22,8 @@ website:
         text: Environmental Data
       - href: Polar_Regions.qmd
         text: Polar Regions 
+      - href: Making_Maps.qmd
+        text: Making Maps 
       - href: Tutorials.qmd
         text: Tutorials & Design
     #  - test.qmd

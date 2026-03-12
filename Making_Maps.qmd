@@ -1,0 +1,6 @@
+---
+title: "Making_Maps"
+editor: visual
+---
+
+Setting up print layout <https://youtu.be/ojRrIZ0M8o4?si=UH-Or13CySDlbvsk>
