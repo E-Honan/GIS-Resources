@@ -3,16 +3,18 @@ title: "Tutorials & Design"
 editor: visual
 ---
 
-## What makes a good map? 
+## What makes a good map?
 
-## Adding basemaps using plugins 
+Making maps in R:
+
+[Good introduction to ggplot2 and sf](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+
+## Adding basemaps using plugins
 
 https://www.youtube.com/watch?v=thTQMkRp3mI
 
 ## Visuals
 
-
-### Accessibility 
+### Accessibility
 
 For choosing colours, [this website](https://htmlcolorcodes.com/) lets you copy the Hex code of a chosen colour.
-

@@ -95,7 +95,7 @@
     "href": "Tutorials.html",
     "title": "Tutorials & Design",
     "section": "",
-    "text": "For choosing colours, this website lets you copy the Hex code of a chosen colour."
+    "text": "Making maps in R:\nGood introduction to ggplot2 and sf"
   },
   {
     "objectID": "Tutorials.html#visuals",
@@ -180,5 +180,19 @@
     "title": "Mapping the Poles",
     "section": "",
     "text": "NSF Arctic Data Center The primary data and software repository for NSF Arctic research"
+  },
+  {
+    "objectID": "Tutorials.html#what-makes-a-good-map",
+    "href": "Tutorials.html#what-makes-a-good-map",
+    "title": "Tutorials & Design",
+    "section": "",
+    "text": "Making maps in R:\nGood introduction to ggplot2 and sf"
+  },
+  {
+    "objectID": "Making_Maps.html",
+    "href": "Making_Maps.html",
+    "title": "Making_Maps",
+    "section": "",
+    "text": "Setting up print layout https://youtu.be/ojRrIZ0M8o4?si=UH-Or13CySDlbvsk"
   }
 ]
