@@ -6,6 +6,17 @@ editor: visual
 > ## Why make a map?
 >
 > blah blah **blah.** blah 
+Maps help place environmental and ecological data into a spatial context. They allow researchers to visualise: 
+- **where** observations were made
+- identify **geographic patterns**
+- **communicate** results more effectively. 
+Including a map can greatly improve the interpretation of ecological processes by showing how species, habitats, and environmental conditions are distributed acrossyour study area.
+
+
+#### How to make an effective and visually appealing map: 
+
+
+
 
 Setting up print layout <https://youtu.be/ojRrIZ0M8o4?si=UH-Or13CySDlbvsk>
 

@@ -193,6 +193,6 @@
     "href": "Making_Maps.html",
     "title": "Making_Maps",
     "section": "",
-    "text": "Why make a map?\nblah blah blah. blah\n\nSetting up print layout https://youtu.be/ojRrIZ0M8o4?si=UH-Or13CySDlbvsk\nDrawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics"
+    "text": "Why make a map?\nblah blah blah. blah Maps help place environmental and ecological data into a spatial context. They allow researchers to visualise: - where observations were made - identify geographic patterns - communicate results more effectively. Including a map can greatly improve the interpretation of ecological processes by showing how species, habitats, and environmental conditions are distributed acrossyour study area.\n\n\nHow to make an effective and visually appealing map:\nSetting up print layout https://youtu.be/ojRrIZ0M8o4?si=UH-Or13CySDlbvsk\nDrawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics"
   }
 ]
