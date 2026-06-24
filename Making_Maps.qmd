@@ -3,4 +3,9 @@ title: "Making_Maps"
 editor: visual
 ---
 
+
+
+
 Setting up print layout <https://youtu.be/ojRrIZ0M8o4?si=UH-Or13CySDlbvsk>
+
+Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics
