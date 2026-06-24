@@ -25,7 +25,7 @@ In order to make a map that is both interpretable and **scientifically useful**,
 
 #### How to make an effective and visually appealing map:
 
-Here are several excellent tutorials for map making in QGIS and R:
+Below I've listed several good tutorials for map making in QGIS and R. 
 
 **QGIS:**
 

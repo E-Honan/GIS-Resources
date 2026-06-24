@@ -3,7 +3,9 @@ title: "Basemaps"
 editor: visual
 ---
 
-Here you’ll find links to landmass outlines of varying degrees of specificity. These are usually supplied as shapefiles. When you’re choosing your basemap, think about what resolution you require, and how this balances with processing time. For example, a global map of humpack whale migration will not require every inch of the coastline to be fully rendered, but if you were looking at say penguin movements in a small bay in New Zealand, you would want a higher accuracy basemap.
+A **basemap** is the underlying geographic layer that provides spatial context for the data being displayed on a map. Basemaps typically show features such as coastlines, land boundaries, roads or terrain, helping you understand the location and environment of the study area. 
+
+Here you’ll find links to landmass outlines of varying degrees of specificity. These are usually supplied as shapefiles. When you’re choosing your basemap, think about what resolution you require, and how this balances with processing time. For example, a global map of humpack whale migration will not require every inch of the coastline to be fully rendered, but if you were looking at penguin movements in a small bay in New Zealand, you would want a higher accuracy basemap!
 
 #### General
 
