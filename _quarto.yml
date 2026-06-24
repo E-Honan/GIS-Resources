@@ -24,13 +24,11 @@ website:
         text: Polar Regions 
       - href: Making_Maps.qmd
         text: Making Maps 
-      - href: Tutorials.qmd
-        text: Tutorials & Design
       
 
     right:
       - icon: github
-        href: https://github.com/E-Honan/GIS-Resources
+        href: https://github.com/E-Honan
 
  
 format:

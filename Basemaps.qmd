@@ -11,6 +11,8 @@ Here you’ll find links to landmass outlines of varying degrees of specificity.
 
 If you’re using QGIS, one of the easiest ways to add a simple basemap is to use the [XYZ Tiles](https://mapscaping.com/adding-basemaps-in-qgis/) option within the software itself - with this you can add Open Street Maps and Google Satellite Maps.
 
+Here's a YouTube tutorial for [adding basemaps using plug-ins.](https://www.youtube.com/watch?v=thTQMkRp3mI)
+
 #### Global
 
 [Natural Earth Data](https://www.naturalearthdata.com/) - this is a great resource, and has a [R package](https://docs.ropensci.org/rnaturalearth/articles/rnaturalearth.html).

@@ -23,7 +23,7 @@ In order to make a map that is both interpretable and **scientifically useful**,
 
 -   **Inset map** – Provides broader geographic context by showing the location of the study area within a larger region.
 
-#### How to make an effective and visually appealing map:
+#### Mapping tutorials: 
 
 Below I've listed several good tutorials for map making in QGIS and R. 
 
@@ -34,3 +34,12 @@ Below I've listed several good tutorials for map making in QGIS and R.
 **R:**
 
 This website is an excellent introduction to handling geospatial data in R, and introduces the 'workhorse' packages for making maps in R: [terra](https://rspatial.org/spatial/) and [sf](https://r-spatial.github.io/sf/): <https://r-geospatial.github.io/r2.html>
+
+Similarly, chapter nine of this website introduces [tmap](https://tmap.geocompx.org/save) which looks like a great mapping package <https://r.geocompx.org/adv-map>
+
+You can make maps using ggplot2, which you'll be familiar with from your data visualisation in previous modules. [Good introduction to ggplot2 and sf](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+
+#### How to make an effective and visually appealing map:
+
+For choosing colours, [this website](https://htmlcolorcodes.com/) lets you copy the Hex code of a chosen colour.
+
