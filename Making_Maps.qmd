@@ -5,12 +5,23 @@ editor: visual
 
 > ## Why make a map?
 >
-> blah blah **blah.** blah 
-Maps help place environmental and ecological data into a spatial context. They allow researchers to visualise: 
+> Maps help place environmental and ecological data into a spatial context. They allow researchers to visualise: 
 - **where** observations were made
 - identify **geographic patterns**
 - **communicate** results more effectively. 
 Including a map can greatly improve the interpretation of ecological processes by showing how species, habitats, and environmental conditions are distributed acrossyour study area.
+
+#### Map non-negotiables: 
+
+In order to make a map that is both interpretable and **scientifically useful**, several key cartographic elements should be included:
+
+- **Scale bar** – Provides a visual indication of distance, allowing you to estimate the size of features and understand the spatial scale of the study area.
+
+- **Graticules (latitude and longitude)** – Help orient the map geographically and allow locations to be referenced using a standard coordinate system.
+
+- **Legend** – Explains the meaning of symbols, colours, and patterns used on the map, ensuring that the data are interpreted correctly. Without it, your map isn't interpretable! 
+
+- **North arrow** – Indicates map orientation and helps readers understand the direction of geographic features and movement patterns.
 
 
 #### How to make an effective and visually appealing map: 
