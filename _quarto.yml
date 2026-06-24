@@ -37,7 +37,7 @@ website:
 format:
   html:
     theme: sketchy
-    linkcolor: "#471C5E"
+    linkcolor: "#009150 "
     toc: true
     
 
